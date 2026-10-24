@@ -121,6 +121,3 @@ Never commit API keys, private documents, personal resumes, or other sensitive i
 
 Developed as a Generative AI and Prompt Engineering internship project.
 
-## License
-
-Add a license if you intend to publish and permit reuse of the project. Otherwise, you may leave this section out until you choose a license.
