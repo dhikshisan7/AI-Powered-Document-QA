@@ -119,5 +119,15 @@ Never commit API keys, private documents, personal resumes, or other sensitive i
 
 ## Author
 
-Developed as a Generative AI and Prompt Engineering internship project.
+Developed as a personal project to learn RAG.
+
+
+## Screenshots
+
+### Answer retrieved from the document
+![Document Q&A successful answer](screenshots/answer_from_document.png)
+
+### Handling missing information
+![Document Q&A fallback response](screenshots/missing_information_fallback.png)
+
 
